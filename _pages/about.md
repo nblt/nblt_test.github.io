@@ -19,7 +19,7 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-I am a four-year Ph.D. student at SJTU supervised by [Prof. Xiaolin Huang](http://www.pami.sjtu.edu.cn/xiaolin). My research interests lie in machine learning and optimization for deep neural networks, especially for efficiency, generalization, and robustness considerations. Previous to that, I obtained my bachelor's degree in Automation (AI direction) from SJTU. I have a passion for developing efficient, robust, and scalable machine learning systems. 
+I am a four-year Ph.D. student at SJTU supervised by [Prof. Xiaolin Huang](http://www.pami.sjtu.edu.cn/xiaolin). My research interests lie in machine learning and optimization for deep neural networks, especially for efficiency, generalization, and robustness considerations. Previous to that, I obtained my bachelor's degree in Automation (AI class) from SJTU. I have a passion for developing efficient, robust, and scalable machine learning systems. 
 
 <!-- Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically. -->
 
